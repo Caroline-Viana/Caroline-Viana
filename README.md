@@ -1,6 +1,6 @@
 ## Olá, sou a Caroline ✨
 
-- 🌱 Estou estudando front-end
+- 🌱 FullStack
 - 📫 Contate-me no e-mail: carolviana-21@hotmail.com
 - 😄 Pronomes: ela/dela
 
