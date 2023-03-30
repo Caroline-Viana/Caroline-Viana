@@ -1,7 +1,6 @@
 ## Olá, sou a Caroline ✨
 
-- 🌱 FullStack
-- 📫 Contate-me no e-mail: carolviana-21@hotmail.com
+- 🌱 Desenvolvedora Java FullStack
 - 😄 Pronomes: ela/dela
 
 <div align="center">
