@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=76b5a0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caroline+Viana;I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <img height="200em" src="https://user-images.githubusercontent.com/105978800/229145178-1b5329a7-4bdf-4782-871d-aa9d3929fc42.png"/>
-<div/>
-
 <div align="center" style="display: block">
   <p>🌱 Desenvolvedora Java FullStack<p/>
   <p>😄 Pronomes: ela/dela <p/>
